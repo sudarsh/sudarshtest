@@ -1,0 +1,8 @@
+{
+  "ignoreTestFiles": ["**/__snapshots__/*", "**/__image_snapshots__/*"],
+  "env": {
+    "userEmail": "user1@quintype.com",
+    "publisher_Id": "03",
+    "password": "Pom9hmeEea"
+  }
+}
