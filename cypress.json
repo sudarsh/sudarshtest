@@ -1,0 +1,10 @@
+{
+  "chromeWebSecurity": false,
+  "projectId": "an1w82",
+  "baseUrl": "http://pagebuilder.staging.quintype.com/login",
+  "env": {
+    "userEmail": "user1@quintype.com",
+    "publisher_Id": "03",
+    "password": "Pom9hmeEea"
+  }
+}
